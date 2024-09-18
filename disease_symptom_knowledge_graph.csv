@@ -1,0 +1,768 @@
+Disease,Symptom
+(vertigo) paroymsal  positional vertigo,headache
+(vertigo) paroymsal  positional vertigo,loss of balance
+(vertigo) paroymsal  positional vertigo,nausea
+(vertigo) paroymsal  positional vertigo,spinning movements
+(vertigo) paroymsal  positional vertigo,unsteadiness
+(vertigo) paroymsal  positional vertigo,vomiting
+aids,extra marital contacts
+aids,high fever
+aids,muscle wasting
+aids,patches in throat
+acne,blackheads
+acne,pus filled pimples
+acne,scurring
+acne,skin rash
+alcoholic hepatitis,abdominal pain
+alcoholic hepatitis,distention of abdomen
+alcoholic hepatitis,fluid overload
+alcoholic hepatitis,history of alcohol consumption
+alcoholic hepatitis,swelling of stomach
+alcoholic hepatitis,vomiting
+alcoholic hepatitis,yellowish skin
+allergy,chills
+allergy,continuous sneezing
+allergy,shivering
+allergy,watering from eyes
+arthritis,decreased range of motion
+arthritis,joint pain
+arthritis,movement stiffness
+arthritis,muscle weakness
+arthritis,painful walking
+arthritis,redness
+arthritis,stiff neck
+arthritis,stiffness
+arthritis,swelling
+arthritis,swelling joints
+bronchial asthma,breathlessness
+bronchial asthma,cough
+bronchial asthma,family history
+bronchial asthma,fatigue
+bronchial asthma,high fever
+bronchial asthma,mucoid sputum
+cervical spondylosis,back pain
+cervical spondylosis,dizziness
+cervical spondylosis,loss of balance
+cervical spondylosis,neck pain
+cervical spondylosis,weakness in limbs
+chicken pox,fatigue
+chicken pox,headache
+chicken pox,high fever
+chicken pox,itching
+chicken pox,lethargy
+chicken pox,loss of appetite
+chicken pox,malaise
+chicken pox,mild fever
+chicken pox,red spots over body
+chicken pox,skin rash
+chicken pox,swelled lymph nodes
+chronic cholestasis,abdominal pain
+chronic cholestasis,itching
+chronic cholestasis,loss of appetite
+chronic cholestasis,nausea
+chronic cholestasis,vomiting
+chronic cholestasis,yellowing of eyes
+chronic cholestasis,yellowish skin
+common cold,chest pain
+common cold,chills
+common cold,congestion
+common cold,continuous sneezing
+common cold,cough
+common cold,fatigue
+common cold,generally feeling unwell
+common cold,headache
+common cold,high fever
+common cold,loss of smell
+common cold,low-grade fever
+common cold,malaise
+common cold,muscle pain
+common cold,phlegm
+common cold,redness of eyes
+common cold,runny nose
+common cold,sinus pressure
+common cold,slight body aches
+common cold,sneezing
+common cold,sore throat
+common cold,swelled lymph nodes
+common cold,throat irritation
+dengue,back pain
+dengue,chills
+dengue,fatigue
+dengue,headache
+dengue,high fever
+dengue,joint pain
+dengue,loss of appetite
+dengue,malaise
+dengue,muscle pain
+dengue,nausea
+dengue,pain behind the eyes
+dengue,red spots over body
+dengue,skin rash
+dengue,vomiting
+diabetes,blurred and distorted vision
+diabetes,excessive hunger
+diabetes,fatigue
+diabetes,increased appetite
+diabetes,irregular sugar level
+diabetes,lethargy
+diabetes,obesity
+diabetes,polyuria
+diabetes,restlessness
+diabetes,weight loss
+dimorphic hemmorhoids(piles),bloody stool
+dimorphic hemmorhoids(piles),constipation
+dimorphic hemmorhoids(piles),irritation in anus
+dimorphic hemmorhoids(piles),pain during bowel movements
+dimorphic hemmorhoids(piles),pain in anal region
+drug reaction,burning micturition
+drug reaction,itching
+drug reaction,skin rash
+drug reaction,spotting  urination
+drug reaction,stomach pain
+fungal infection,dischromic  patches
+fungal infection,itching
+fungal infection,nodal skin eruptions
+fungal infection,skin rash
+gerd,acidity
+gerd,chest pain
+gerd,cough
+gerd,stomach pain
+gerd,ulcers on tongue
+gerd,vomiting
+gastroenteritis,abdominal cramps and pain
+gastroenteritis,dehydration
+gastroenteritis,diarrhea
+gastroenteritis,diarrhoea
+gastroenteritis,fever
+gastroenteritis,low-grade fever
+gastroenteritis,nausea
+gastroenteritis,nausea.
+gastroenteritis,occasional muscle aches or headache
+gastroenteritis,stomach cramps
+gastroenteritis,sunken eyes
+gastroenteritis,vomiting
+gastroenteritis,watery diarrhea
+heart attack,breathlessness
+heart attack,chest pain
+heart attack,sweating
+heart attack,vomiting
+hepatitis b,abdominal pain
+hepatitis b,dark urine
+hepatitis b,fatigue
+hepatitis b,itching
+hepatitis b,jaundice
+hepatitis b,lethargy
+hepatitis b,loss of appetite
+hepatitis b,loss of appetite.
+hepatitis b,malaise
+hepatitis b,receiving blood transfusion
+hepatitis b,receiving unsterile injections
+hepatitis b,yellow urine
+hepatitis b,yellowing of eyes
+hepatitis b,yellowish skin
+hepatitis c,family history
+hepatitis c,fatigue
+hepatitis c,loss of appetite
+hepatitis c,nausea
+hepatitis c,yellowing of eyes
+hepatitis c,yellowish skin
+hepatitis d,abdominal pain
+hepatitis d,dark urine
+hepatitis d,fatigue
+hepatitis d,joint pain
+hepatitis d,loss of appetite
+hepatitis d,nausea
+hepatitis d,vomiting
+hepatitis d,yellowing of eyes
+hepatitis d,yellowish skin
+hepatitis e,abdominal pain
+hepatitis e,acute liver failure
+hepatitis e,coma
+hepatitis e,dark urine
+hepatitis e,fatigue
+hepatitis e,high fever
+hepatitis e,joint pain
+hepatitis e,loss of appetite
+hepatitis e,nausea
+hepatitis e,stomach bleeding
+hepatitis e,vomiting
+hepatitis e,yellowing of eyes
+hepatitis e,yellowish skin
+hypertension,chest pain
+hypertension,dizziness
+hypertension,headache
+hypertension,lack of concentration
+hypertension,loss of balance
+hyperthyroidism,abnormal menstruation
+hyperthyroidism,diarrhoea
+hyperthyroidism,excessive hunger
+hyperthyroidism,fast heart rate
+hyperthyroidism,fatigue
+hyperthyroidism,increased appetite
+hyperthyroidism,irritability
+hyperthyroidism,irritability.
+hyperthyroidism,mood swings
+hyperthyroidism,muscle weakness
+hyperthyroidism,rapid heartbeat
+hyperthyroidism,restlessness
+hyperthyroidism,sweating
+hyperthyroidism,weight loss
+hypoglycemia,anxiety
+hypoglycemia,blurred and distorted vision
+hypoglycemia,drying and tingling lips
+hypoglycemia,excessive hunger
+hypoglycemia,fatigue
+hypoglycemia,headache
+hypoglycemia,irritability
+hypoglycemia,nausea
+hypoglycemia,palpitations
+hypoglycemia,slurred speech
+hypoglycemia,sweating
+hypoglycemia,vomiting
+hypothyroidism,abnormal menstruation
+hypothyroidism,brittle nails
+hypothyroidism,cold hands and feets
+hypothyroidism,cold intolerance
+hypothyroidism,constipation
+hypothyroidism,depression
+hypothyroidism,dizziness
+hypothyroidism,dry skin
+hypothyroidism,enlarged thyroid
+hypothyroidism,fatigue
+hypothyroidism,hair loss.
+hypothyroidism,irritability
+hypothyroidism,lethargy
+hypothyroidism,mood swings
+hypothyroidism,puffy face and eyes
+hypothyroidism,swollen extremeties
+hypothyroidism,weight gain
+impetigo,blister
+impetigo,high fever
+impetigo,red sore around nose
+impetigo,skin rash
+impetigo,yellow crust ooze
+jaundice,abdominal pain
+jaundice,dark urine
+jaundice,fatigue
+jaundice,high fever
+jaundice,itching
+jaundice,vomiting
+jaundice,weight loss
+jaundice,yellowish skin
+malaria,chills
+malaria,diarrhoea
+malaria,fever
+malaria,headache
+malaria,high fever
+malaria,muscle pain
+malaria,nausea
+malaria,sweating
+malaria,vomiting
+malaria,vomiting.
+migraine,acidity
+migraine,blurred and distorted vision
+migraine,depression
+migraine,excessive hunger
+migraine,headache
+migraine,indigestion
+migraine,intense headache
+migraine,irritability
+migraine,nausea
+migraine,sensitivity to light and sound
+migraine,stiff neck
+migraine,visual disturbances
+migraine,vomiting
+osteoarthristis,hip joint pain
+osteoarthristis,joint pain
+osteoarthristis,knee pain
+osteoarthristis,neck pain
+osteoarthristis,painful walking
+osteoarthristis,swelling joints
+paralysis (brain hemorrhage),altered sensorium
+paralysis (brain hemorrhage),headache
+paralysis (brain hemorrhage),vomiting
+paralysis (brain hemorrhage),weakness of one body side
+peptic ulcer diseae,abdominal pain
+peptic ulcer diseae,indigestion
+peptic ulcer diseae,internal itching
+peptic ulcer diseae,loss of appetite
+peptic ulcer diseae,passage of gases
+peptic ulcer diseae,vomiting
+pneumonia,breathlessness
+pneumonia,chest pain
+pneumonia,chest pain when breathing or coughing
+pneumonia,chest pain.
+pneumonia,chills
+pneumonia,confusion or changes in mental awareness
+pneumonia,cough
+pneumonia,cough with phlegm
+pneumonia,fast heart rate
+pneumonia,fatigue
+pneumonia,fever
+pneumonia,high fever
+pneumonia,lower than normal body temperature
+pneumonia,malaise
+pneumonia,nausea
+pneumonia,phlegm
+pneumonia,rusty sputum
+pneumonia,shortness of breath
+pneumonia,sweating
+pneumonia,sweating and shaking chills
+pneumonia,vomiting or diarrhea
+psoriasis,dry skin
+psoriasis,inflammatory nails
+psoriasis,itching
+psoriasis,joint pain
+psoriasis,pain
+psoriasis,red patches of skin
+psoriasis,silver like dusting
+psoriasis,skin peeling
+psoriasis,skin rash
+psoriasis,small dents in nails
+psoriasis,thickened nails.
+tuberculosis,blood in sputum
+tuberculosis,breathlessness
+tuberculosis,chest pain
+tuberculosis,chills
+tuberculosis,cough
+tuberculosis,fatigue
+tuberculosis,high fever
+tuberculosis,loss of appetite
+tuberculosis,malaise
+tuberculosis,mild fever
+tuberculosis,phlegm
+tuberculosis,sweating
+tuberculosis,swelled lymph nodes
+tuberculosis,vomiting
+tuberculosis,weight loss
+tuberculosis,yellowing of eyes
+typhoid,abdominal pain
+typhoid,belly pain
+typhoid,chills
+typhoid,constipation
+typhoid,diarrhoea
+typhoid,fatigue
+typhoid,headache
+typhoid,high fever
+typhoid,nausea
+typhoid,toxic look (typhos)
+typhoid,vomiting
+urinary tract infection,bladder discomfort
+urinary tract infection,burning micturition
+urinary tract infection,continuous feel of urine
+urinary tract infection,foul smell of urine
+varicose veins,bruising
+varicose veins,cramps
+varicose veins,fatigue
+varicose veins,obesity
+varicose veins,prominent veins on calf
+varicose veins,swollen blood vessels
+varicose veins,swollen legs
+hepatitis a,abdominal pain
+hepatitis a,dark urine
+hepatitis a,diarrhoea
+hepatitis a,joint pain
+hepatitis a,loss of appetite
+hepatitis a,mild fever
+hepatitis a,muscle pain
+hepatitis a,nausea
+hepatitis a,vomiting
+hepatitis a,yellowing of eyes
+hepatitis a,yellowish skin
+influenza (flu),chills
+influenza (flu),cough
+influenza (flu),fatigue
+influenza (flu),fatigue.
+influenza (flu),fever
+influenza (flu),headaches
+influenza (flu),muscle aches
+influenza (flu),muscle or body aches
+influenza (flu),runny or stuffy nose
+influenza (flu),sore throat
+covid-19,aches and pains
+covid-19,cough
+covid-19,diarrhea
+covid-19,difficulty breathing
+covid-19,dry cough
+covid-19,fatigue.
+covid-19,fever
+covid-19,headache
+covid-19,loss of taste or smell
+covid-19,nausea
+covid-19,runny nose
+covid-19,sore throat
+covid-19,tiredness
+covid-19,vomiting
+tuberculosis (tb),fatigue
+tuberculosis (tb),fever.
+tuberculosis (tb),night sweats
+tuberculosis (tb),persistent cough
+tuberculosis (tb),weight loss
+dengue fever,high fever
+dengue fever,joint and muscle pain
+dengue fever,pain behind the eyes
+dengue fever,rash.
+dengue fever,severe headache
+cholera,dehydration
+cholera,diarrhea
+cholera,low blood pressure.
+cholera,muscle cramps
+cholera,rapid heart rate
+meningitis,fever
+meningitis,nausea
+meningitis,sensitivity to light.
+meningitis,severe headache
+meningitis,stiff neck
+asthma,chest tightness or pain
+asthma,chest tightness.
+asthma,coughing
+asthma,coughing or wheezing attacks
+asthma,shortness of breath
+asthma,trouble sleeping due to shortness of breath
+asthma,wheezing
+asthma,wheezing when exhaling
+chickenpox,fever
+chickenpox,itchy rash
+chickenpox,loss of appetite.
+chickenpox,tiredness
+typhoid fever,headache
+typhoid fever,high fever
+typhoid fever,loss of appetite.
+typhoid fever,stomach pain
+typhoid fever,weakness
+ebola virus,bleeding.
+ebola virus,fever
+ebola virus,headache
+ebola virus,muscle pain
+ebola virus,vomiting
+zika virus,fever
+zika virus,joint pain
+zika virus,muscle pain.
+zika virus,rash
+zika virus,red eyes
+leprosy (hansen's disease),muscle weakness
+leprosy (hansen's disease),nerve damage
+leprosy (hansen's disease),numbness in affected areas.
+leprosy (hansen's disease),skin sores
+celiac disease,anemia.
+celiac disease,bloating
+celiac disease,diarrhea
+celiac disease,fatigue
+celiac disease,weight loss
+rheumatoid arthritis,fatigue
+rheumatoid arthritis,joint pain
+rheumatoid arthritis,stiffness
+rheumatoid arthritis,swelling
+rheumatoid arthritis,weight loss.
+lyme disease,fatigue
+lyme disease,fever
+lyme disease,headache
+lyme disease,rash (bullseye pattern).
+parkinson's disease,balance issues.
+parkinson's disease,muscle stiffness
+parkinson's disease,slowed movement
+parkinson's disease,speech problems
+parkinson's disease,tremors
+appendicitis,abdominal pain
+appendicitis,fever.
+appendicitis,loss of appetite
+appendicitis,nausea
+appendicitis,vomiting
+bronchitis,chest discomfort
+bronchitis,chest discomfort.
+bronchitis,cough
+bronchitis,cough with mucus
+bronchitis,fatigue
+bronchitis,production of mucus
+bronchitis,shortness of breath
+bronchitis,slight fever
+bronchitis,slight fever and chills
+chronic obstructive pulmonary disease (copd),chronic cough
+chronic obstructive pulmonary disease (copd),frequent respiratory infections.
+chronic obstructive pulmonary disease (copd),shortness of breath
+chronic obstructive pulmonary disease (copd),wheezing
+diabetes mellitus type 1,blurred vision.
+diabetes mellitus type 1,excessive thirst
+diabetes mellitus type 1,fatigue
+diabetes mellitus type 1,frequent urination
+diabetes mellitus type 1,weight loss
+diabetes mellitus type 2,blurred vision
+diabetes mellitus type 2,fatigue
+diabetes mellitus type 2,frequent urination
+diabetes mellitus type 2,increased hunger
+diabetes mellitus type 2,slow healing wounds.
+gout,inflammation.
+gout,intense joint pain
+gout,limited range of motion
+gout,redness
+gout,swelling
+hypertension (high blood pressure),but severe cases may include headaches
+hypertension (high blood pressure),chest pain
+hypertension (high blood pressure),dizziness
+hypertension (high blood pressure),headaches
+hypertension (high blood pressure),nosebleeds
+hypertension (high blood pressure),nosebleeds.
+hypertension (high blood pressure),often no symptoms
+hypertension (high blood pressure),shortness of breath
+hypertension (high blood pressure),visual changes
+irritable bowel syndrome (ibs),abdominal pain
+irritable bowel syndrome (ibs),bloating
+irritable bowel syndrome (ibs),constipation.
+irritable bowel syndrome (ibs),diarrhea
+irritable bowel syndrome (ibs),gas
+kidney stones,blood in urine
+kidney stones,frequent urination.
+kidney stones,nausea
+kidney stones,severe pain in the back or side
+kidney stones,vomiting
+osteoarthritis,bone spurs.
+osteoarthritis,joint pain
+osteoarthritis,loss of flexibility
+osteoarthritis,stiffness
+osteoarthritis,swelling
+cataracts,blurred vision
+cataracts,difficulty seeing at night.
+cataracts,faded colors
+cataracts,sensitivity to light
+macular degeneration,blurred or reduced central vision
+macular degeneration,difficulty recognizing faces
+macular degeneration,visual distortions.
+peptic ulcer disease,bloating
+peptic ulcer disease,burning stomach pain
+peptic ulcer disease,fatty food intolerance.
+peptic ulcer disease,heartburn
+peptic ulcer disease,nausea
+fibromyalgia,fatigue
+fibromyalgia,memory issues
+fibromyalgia,mood changes.
+fibromyalgia,sleep disturbances
+fibromyalgia,widespread muscle pain
+lupus,butterfly-shaped facial rash
+lupus,fatigue
+lupus,fever
+lupus,hair loss.
+lupus,joint pain
+multiple sclerosis,coordination issues
+multiple sclerosis,fatigue.
+multiple sclerosis,numbness
+multiple sclerosis,vision problems
+multiple sclerosis,weakness
+parkinsonism,balance issues
+parkinsonism,changes in speech.
+parkinsonism,slowed movements
+parkinsonism,stiffness
+parkinsonism,tremors
+alzheimer's disease,confusion
+alzheimer's disease,difficulty with planning
+alzheimer's disease,memory loss
+alzheimer's disease,mood swings.
+crohn's disease,abdominal pain
+crohn's disease,anemia.
+crohn's disease,diarrhea
+crohn's disease,fatigue
+crohn's disease,weight loss
+cystic fibrosis,lung infections
+cystic fibrosis,persistent cough with mucus
+cystic fibrosis,salty sweat.
+cystic fibrosis,shortness of breath
+polio,fever
+polio,muscle weakness
+polio,paralysis in severe cases.
+polio,sore throat
+shingles (herpes zoster),blisters
+shingles (herpes zoster),fever
+shingles (herpes zoster),headache.
+shingles (herpes zoster),itching
+shingles (herpes zoster),painful rash
+epilepsy,confusion
+epilepsy,seizures
+epilepsy,staring spells
+epilepsy,uncontrollable jerking movements.
+hemophilia,easy bruising
+hemophilia,excessive bleeding
+hemophilia,joint pain
+hemophilia,nosebleeds
+hemophilia,prolonged bleeding.
+hiv,chills
+hiv,fatigue
+hiv,fever
+hiv,muscle aches
+hiv,swollen lymph nodes.
+hiv,weight loss
+chikungunya,headache.
+chikungunya,high fever
+chikungunya,joint pain
+chikungunya,muscle pain
+chikungunya,rash
+rabies,confusion.
+rabies,excess salivation
+rabies,fever
+rabies,headache
+rabies,muscle spasms
+rabies,paralysis
+anthrax,cough.
+anthrax,fever
+anthrax,muscle aches
+anthrax,shortness of breath
+anthrax,skin sores
+tetanus,jaw cramping
+tetanus,muscle spasms
+tetanus,seizures.
+tetanus,trouble swallowing
+botulism,blurred vision
+botulism,difficulty swallowing
+botulism,muscle weakness
+botulism,slurred speech.
+hantavirus,cough
+hantavirus,fatigue
+hantavirus,fever
+hantavirus,muscle aches
+hantavirus,shortness of breath.
+west nile virus,body aches
+west nile virus,diarrhea.
+west nile virus,fever
+west nile virus,headache
+west nile virus,joint pain
+west nile virus,vomiting
+yellow fever,chills
+yellow fever,fever
+yellow fever,headache
+yellow fever,jaundice.
+yellow fever,nausea
+marburg virus,bleeding.
+marburg virus,diarrhea
+marburg virus,high fever
+marburg virus,muscle pain
+marburg virus,severe headache
+leptospirosis,headache
+leptospirosis,high fever
+leptospirosis,jaundice.
+leptospirosis,muscle pain
+leptospirosis,red eyes
+syphilis,fever
+syphilis,muscle aches.
+syphilis,painless sores
+syphilis,skin rashes
+syphilis,swollen lymph nodes
+gonorrhea,abnormal discharge
+gonorrhea,pain in testicles
+gonorrhea,painful urination
+gonorrhea,pelvic pain.
+chlamydia,abdominal pain
+chlamydia,bleeding between periods.
+chlamydia,discharge
+chlamydia,painful urination
+trichomoniasis,burning during urination
+trichomoniasis,discomfort.
+trichomoniasis,itching
+trichomoniasis,vaginal discharge
+toxoplasmosis,blurred vision.
+toxoplasmosis,flu-like symptoms
+toxoplasmosis,muscle aches
+toxoplasmosis,swollen lymph nodes
+mumps,fatigue.
+mumps,fever
+mumps,headache
+mumps,muscle aches
+mumps,swollen salivary glands
+measles,cough
+measles,fever
+measles,rash.
+measles,red eyes
+measles,runny nose
+rubella (german measles),aching joints.
+rubella (german measles),headache
+rubella (german measles),mild fever
+rubella (german measles),rash
+rubella (german measles),swollen lymph nodes
+whooping cough (pertussis),difficulty breathing
+whooping cough (pertussis),severe coughing fits
+whooping cough (pertussis),vomiting after coughing.
+scarlet fever,fever
+scarlet fever,red lines
+scarlet fever,red rash
+scarlet fever,sore throat
+scarlet fever,strawberry-like tongue.
+rocky mountain spotted fever,fever
+rocky mountain spotted fever,headache
+rocky mountain spotted fever,muscle pain.
+rocky mountain spotted fever,nausea
+rocky mountain spotted fever,rash
+rocky mountain spotted fever,vomiting
+legionnaires' disease,cough
+legionnaires' disease,headache.
+legionnaires' disease,high fever
+legionnaires' disease,muscle aches
+legionnaires' disease,shortness of breath
+type 2 diabetes,blurred vision
+type 2 diabetes,fatigue
+type 2 diabetes,frequent urination
+type 2 diabetes,increased hunger
+type 2 diabetes,increased thirst
+type 2 diabetes,slow-healing sores
+type 2 diabetes,unintended weight loss
+allergies,congestion
+allergies,itchy and watery eyes
+allergies,itchy nose
+allergies,itchy roof of mouth or throat
+allergies,runny nose
+allergies,sneezing
+gastroesophageal reflux disease (gerd),chest pain
+gastroesophageal reflux disease (gerd),difficulty swallowing
+gastroesophageal reflux disease (gerd),heartburn
+gastroesophageal reflux disease (gerd),regurgitation of food or sour liquid
+gastroesophageal reflux disease (gerd),sensation of a lump in the throat
+urinary tract infection (uti),burning sensation when urinating
+urinary tract infection (uti),cloudy urine
+urinary tract infection (uti),passing frequent
+urinary tract infection (uti),pelvic pain
+urinary tract infection (uti),persistent urge to urinate
+urinary tract infection (uti),red or bright pink urine
+urinary tract infection (uti),small amounts of urine
+urinary tract infection (uti),strong
+urinary tract infection (uti),strong-smelling urine
+sinusitis,cheeks
+sinusitis,cough
+sinusitis,drainage down the back of the throat
+sinusitis,fatigue
+sinusitis,nasal inflammation
+sinusitis,nasal obstruction or congestion
+sinusitis,nose or forehead
+sinusitis,pain or tenderness around eyes
+sinusitis,reduced sense of smell and taste
+sinusitis,thick nasal discharge
+otitis media (ear infection),diminished hearing
+otitis media (ear infection),drainage of fluid from the ear
+otitis media (ear infection),ear pain
+otitis media (ear infection),fever
+otitis media (ear infection),irritability in infants and young children
+conjunctivitis (pink eye),a discharge in one or both eyes that forms a crust during the night
+conjunctivitis (pink eye),a gritty feeling in one or both eyes
+conjunctivitis (pink eye),itchiness in one or both eyes
+conjunctivitis (pink eye),redness in one or both eyes
+conjunctivitis (pink eye),tearing
+dermatitis,blisters
+dermatitis,burning or tenderness
+dermatitis,dry skin
+dermatitis,flaky skin
+dermatitis,itching
+dermatitis,rash
+dermatitis,swelling
+obesity,body mass index (bmi) of 30 or higher
+obesity,excess body fat accumulation
+obesity,joint problems
+obesity,larger waist circumference
+obesity,shortness of breath
+obesity,sleep apnea
+obesity,sweating
+depression,anxious
+depression,appetite and/or weight changes
+depression,decreased energy or fatigue
+depression,difficulty concentrating
+depression,feelings of hopelessness
+depression,insomnia or oversleeping
+depression,irritability
+depression,loss of interest in hobbies and activities
+depression,"or ""empty"" mood"
+depression,persistent sad
+depression,thoughts of death or suicide

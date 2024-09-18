@@ -1,0 +1,366 @@
+Disease,Symptom,Relation
+(vertigo) paroymsal  positional vertigo,headache,has_symptom
+(vertigo) paroymsal  positional vertigo,loss of balance,has_symptom
+(vertigo) paroymsal  positional vertigo,nausea,has_symptom
+(vertigo) paroymsal  positional vertigo,spinning movements,has_symptom
+(vertigo) paroymsal  positional vertigo,unsteadiness,has_symptom
+(vertigo) paroymsal  positional vertigo,vomiting,has_symptom
+aids,extra marital contacts,has_symptom
+aids,high fever,has_symptom
+aids,muscle wasting,has_symptom
+aids,patches in throat,has_symptom
+acne,blackheads,has_symptom
+acne,pus filled pimples,has_symptom
+acne,scurring,has_symptom
+acne,skin rash,has_symptom
+alcoholic hepatitis,abdominal pain,has_symptom
+alcoholic hepatitis,distention of abdomen,has_symptom
+alcoholic hepatitis,fluid overload,has_symptom
+alcoholic hepatitis,history of alcohol consumption,has_symptom
+alcoholic hepatitis,swelling of stomach,has_symptom
+alcoholic hepatitis,yellowish skin,has_symptom
+allergy,chills,has_symptom
+allergy,continuous sneezing,has_symptom
+allergy,shivering,has_symptom
+allergy,watering from eyes,has_symptom
+arthritis,decreased range of motion,has_symptom
+arthritis,joint pain,has_symptom
+arthritis,movement stiffness,has_symptom
+arthritis,muscle weakness,has_symptom
+arthritis,painful walking,has_symptom
+arthritis,redness,has_symptom
+arthritis,stiff neck,has_symptom
+arthritis,stiffness,has_symptom
+arthritis,swelling,has_symptom
+arthritis,swelling joints,has_symptom
+bronchial asthma,breathlessness,has_symptom
+bronchial asthma,cough,has_symptom
+bronchial asthma,family history,has_symptom
+bronchial asthma,fatigue,has_symptom
+bronchial asthma,mucoid sputum,has_symptom
+cervical spondylosis,back pain,has_symptom
+cervical spondylosis,dizziness,has_symptom
+cervical spondylosis,neck pain,has_symptom
+cervical spondylosis,weakness in limbs,has_symptom
+chicken pox,itching,has_symptom
+chicken pox,lethargy,has_symptom
+chicken pox,loss of appetite,has_symptom
+chicken pox,malaise,has_symptom
+chicken pox,mild fever,has_symptom
+chicken pox,red spots over body,has_symptom
+chicken pox,swelled lymph nodes,has_symptom
+chronic cholestasis,yellowing of eyes,has_symptom
+common cold,chest pain,has_symptom
+common cold,congestion,has_symptom
+common cold,generally feeling unwell,has_symptom
+common cold,loss of smell,has_symptom
+common cold,low-grade fever,has_symptom
+common cold,muscle pain,has_symptom
+common cold,phlegm,has_symptom
+common cold,redness of eyes,has_symptom
+common cold,runny nose,has_symptom
+common cold,sinus pressure,has_symptom
+common cold,slight body aches,has_symptom
+common cold,sneezing,has_symptom
+common cold,sore throat,has_symptom
+common cold,throat irritation,has_symptom
+dengue,pain behind the eyes,has_symptom
+diabetes,blurred and distorted vision,has_symptom
+diabetes,excessive hunger,has_symptom
+diabetes,increased appetite,has_symptom
+diabetes,irregular sugar level,has_symptom
+diabetes,polyuria,has_symptom
+diabetes,restlessness,has_symptom
+diabetes,weight loss,has_symptom
+obesity,body mass index (bmi) of 30 or higher,has_symptom
+obesity,excess body fat accumulation,has_symptom
+obesity,joint problems,has_symptom
+obesity,larger waist circumference,has_symptom
+obesity,shortness of breath,has_symptom
+obesity,sleep apnea,has_symptom
+obesity,sweating,has_symptom
+dimorphic hemmorhoids(piles),bloody stool,has_symptom
+dimorphic hemmorhoids(piles),constipation,has_symptom
+dimorphic hemmorhoids(piles),irritation in anus,has_symptom
+dimorphic hemmorhoids(piles),pain during bowel movements,has_symptom
+dimorphic hemmorhoids(piles),pain in anal region,has_symptom
+drug reaction,burning micturition,has_symptom
+drug reaction,spotting  urination,has_symptom
+drug reaction,stomach pain,has_symptom
+fungal infection,dischromic  patches,has_symptom
+fungal infection,nodal skin eruptions,has_symptom
+gerd,acidity,has_symptom
+gerd,ulcers on tongue,has_symptom
+gastroenteritis,abdominal cramps and pain,has_symptom
+gastroenteritis,dehydration,has_symptom
+gastroenteritis,diarrhea,has_symptom
+gastroenteritis,diarrhoea,has_symptom
+gastroenteritis,fever,has_symptom
+gastroenteritis,nausea.,has_symptom
+gastroenteritis,occasional muscle aches or headache,has_symptom
+gastroenteritis,stomach cramps,has_symptom
+gastroenteritis,sunken eyes,has_symptom
+gastroenteritis,watery diarrhea,has_symptom
+heart attack,sweating,has_symptom
+hepatitis b,dark urine,has_symptom
+hepatitis b,loss of appetite.,has_symptom
+hepatitis b,receiving blood transfusion,has_symptom
+hepatitis b,receiving unsterile injections,has_symptom
+hepatitis b,yellow urine,has_symptom
+hepatitis e,acute liver failure,has_symptom
+hepatitis e,coma,has_symptom
+hepatitis e,stomach bleeding,has_symptom
+hypertension,lack of concentration,has_symptom
+hyperthyroidism,abnormal menstruation,has_symptom
+hyperthyroidism,fast heart rate,has_symptom
+hyperthyroidism,irritability,has_symptom
+hyperthyroidism,irritability.,has_symptom
+hyperthyroidism,mood swings,has_symptom
+hyperthyroidism,rapid heartbeat,has_symptom
+hypoglycemia,anxiety,has_symptom
+hypoglycemia,drying and tingling lips,has_symptom
+hypoglycemia,palpitations,has_symptom
+hypoglycemia,slurred speech,has_symptom
+hypothyroidism,brittle nails,has_symptom
+hypothyroidism,cold hands and feets,has_symptom
+hypothyroidism,cold intolerance,has_symptom
+hypothyroidism,dry skin,has_symptom
+hypothyroidism,enlarged thyroid,has_symptom
+hypothyroidism,hair loss.,has_symptom
+hypothyroidism,puffy face and eyes,has_symptom
+hypothyroidism,swollen extremeties,has_symptom
+hypothyroidism,weight gain,has_symptom
+depression,anxious,has_symptom
+depression,appetite and/or weight changes,has_symptom
+depression,decreased energy or fatigue,has_symptom
+depression,difficulty concentrating,has_symptom
+depression,feelings of hopelessness,has_symptom
+depression,insomnia or oversleeping,has_symptom
+depression,loss of interest in hobbies and activities,has_symptom
+depression,"or ""empty"" mood",has_symptom
+depression,persistent sad,has_symptom
+depression,thoughts of death or suicide,has_symptom
+impetigo,blister,has_symptom
+impetigo,red sore around nose,has_symptom
+impetigo,yellow crust ooze,has_symptom
+malaria,vomiting.,has_symptom
+migraine,indigestion,has_symptom
+migraine,intense headache,has_symptom
+migraine,sensitivity to light and sound,has_symptom
+migraine,visual disturbances,has_symptom
+osteoarthristis,hip joint pain,has_symptom
+osteoarthristis,knee pain,has_symptom
+paralysis (brain hemorrhage),altered sensorium,has_symptom
+paralysis (brain hemorrhage),weakness of one body side,has_symptom
+peptic ulcer diseae,internal itching,has_symptom
+peptic ulcer diseae,passage of gases,has_symptom
+pneumonia,chest pain when breathing or coughing,has_symptom
+pneumonia,chest pain.,has_symptom
+pneumonia,confusion or changes in mental awareness,has_symptom
+pneumonia,cough with phlegm,has_symptom
+pneumonia,lower than normal body temperature,has_symptom
+pneumonia,rusty sputum,has_symptom
+pneumonia,shortness of breath,has_symptom
+pneumonia,sweating and shaking chills,has_symptom
+pneumonia,vomiting or diarrhea,has_symptom
+psoriasis,inflammatory nails,has_symptom
+psoriasis,pain,has_symptom
+psoriasis,red patches of skin,has_symptom
+psoriasis,silver like dusting,has_symptom
+psoriasis,skin peeling,has_symptom
+psoriasis,small dents in nails,has_symptom
+psoriasis,thickened nails.,has_symptom
+tuberculosis,blood in sputum,has_symptom
+typhoid,belly pain,has_symptom
+typhoid,toxic look (typhos),has_symptom
+urinary tract infection,bladder discomfort,has_symptom
+urinary tract infection,continuous feel of urine,has_symptom
+urinary tract infection,foul smell of urine,has_symptom
+varicose veins,bruising,has_symptom
+varicose veins,cramps,has_symptom
+varicose veins,prominent veins on calf,has_symptom
+varicose veins,swollen blood vessels,has_symptom
+varicose veins,swollen legs,has_symptom
+influenza (flu),fatigue.,has_symptom
+influenza (flu),headaches,has_symptom
+influenza (flu),muscle aches,has_symptom
+influenza (flu),muscle or body aches,has_symptom
+influenza (flu),runny or stuffy nose,has_symptom
+covid-19,aches and pains,has_symptom
+covid-19,difficulty breathing,has_symptom
+covid-19,dry cough,has_symptom
+covid-19,loss of taste or smell,has_symptom
+covid-19,tiredness,has_symptom
+tuberculosis (tb),fever.,has_symptom
+tuberculosis (tb),night sweats,has_symptom
+tuberculosis (tb),persistent cough,has_symptom
+dengue fever,joint and muscle pain,has_symptom
+dengue fever,rash.,has_symptom
+dengue fever,severe headache,has_symptom
+cholera,low blood pressure.,has_symptom
+cholera,muscle cramps,has_symptom
+cholera,rapid heart rate,has_symptom
+meningitis,sensitivity to light.,has_symptom
+asthma,chest tightness or pain,has_symptom
+asthma,chest tightness.,has_symptom
+asthma,coughing,has_symptom
+asthma,coughing or wheezing attacks,has_symptom
+asthma,trouble sleeping due to shortness of breath,has_symptom
+asthma,wheezing,has_symptom
+asthma,wheezing when exhaling,has_symptom
+chickenpox,itchy rash,has_symptom
+typhoid fever,weakness,has_symptom
+ebola virus,bleeding.,has_symptom
+zika virus,muscle pain.,has_symptom
+zika virus,rash,has_symptom
+zika virus,red eyes,has_symptom
+leprosy (hansen's disease),nerve damage,has_symptom
+leprosy (hansen's disease),numbness in affected areas.,has_symptom
+leprosy (hansen's disease),skin sores,has_symptom
+celiac disease,anemia.,has_symptom
+celiac disease,bloating,has_symptom
+rheumatoid arthritis,weight loss.,has_symptom
+lyme disease,rash (bullseye pattern).,has_symptom
+parkinson's disease,balance issues.,has_symptom
+parkinson's disease,muscle stiffness,has_symptom
+parkinson's disease,slowed movement,has_symptom
+parkinson's disease,speech problems,has_symptom
+parkinson's disease,tremors,has_symptom
+bronchitis,chest discomfort,has_symptom
+bronchitis,chest discomfort.,has_symptom
+bronchitis,cough with mucus,has_symptom
+bronchitis,production of mucus,has_symptom
+bronchitis,slight fever,has_symptom
+bronchitis,slight fever and chills,has_symptom
+chronic obstructive pulmonary disease (copd),chronic cough,has_symptom
+chronic obstructive pulmonary disease (copd),frequent respiratory infections.,has_symptom
+diabetes mellitus type 1,blurred vision.,has_symptom
+diabetes mellitus type 1,excessive thirst,has_symptom
+diabetes mellitus type 1,frequent urination,has_symptom
+diabetes mellitus type 2,blurred vision,has_symptom
+diabetes mellitus type 2,increased hunger,has_symptom
+diabetes mellitus type 2,slow healing wounds.,has_symptom
+gout,inflammation.,has_symptom
+gout,intense joint pain,has_symptom
+gout,limited range of motion,has_symptom
+hypertension (high blood pressure),but severe cases may include headaches,has_symptom
+hypertension (high blood pressure),nosebleeds,has_symptom
+hypertension (high blood pressure),nosebleeds.,has_symptom
+hypertension (high blood pressure),often no symptoms,has_symptom
+hypertension (high blood pressure),visual changes,has_symptom
+irritable bowel syndrome (ibs),constipation.,has_symptom
+irritable bowel syndrome (ibs),gas,has_symptom
+kidney stones,blood in urine,has_symptom
+kidney stones,frequent urination.,has_symptom
+kidney stones,severe pain in the back or side,has_symptom
+osteoarthritis,bone spurs.,has_symptom
+osteoarthritis,loss of flexibility,has_symptom
+cataracts,difficulty seeing at night.,has_symptom
+cataracts,faded colors,has_symptom
+cataracts,sensitivity to light,has_symptom
+macular degeneration,blurred or reduced central vision,has_symptom
+macular degeneration,difficulty recognizing faces,has_symptom
+macular degeneration,visual distortions.,has_symptom
+peptic ulcer disease,burning stomach pain,has_symptom
+peptic ulcer disease,fatty food intolerance.,has_symptom
+peptic ulcer disease,heartburn,has_symptom
+fibromyalgia,memory issues,has_symptom
+fibromyalgia,mood changes.,has_symptom
+fibromyalgia,sleep disturbances,has_symptom
+fibromyalgia,widespread muscle pain,has_symptom
+lupus,butterfly-shaped facial rash,has_symptom
+multiple sclerosis,coordination issues,has_symptom
+multiple sclerosis,numbness,has_symptom
+multiple sclerosis,vision problems,has_symptom
+parkinsonism,balance issues,has_symptom
+parkinsonism,changes in speech.,has_symptom
+parkinsonism,slowed movements,has_symptom
+alzheimer's disease,confusion,has_symptom
+alzheimer's disease,difficulty with planning,has_symptom
+alzheimer's disease,memory loss,has_symptom
+alzheimer's disease,mood swings.,has_symptom
+cystic fibrosis,lung infections,has_symptom
+cystic fibrosis,persistent cough with mucus,has_symptom
+cystic fibrosis,salty sweat.,has_symptom
+polio,paralysis in severe cases.,has_symptom
+shingles (herpes zoster),blisters,has_symptom
+shingles (herpes zoster),headache.,has_symptom
+shingles (herpes zoster),painful rash,has_symptom
+epilepsy,seizures,has_symptom
+epilepsy,staring spells,has_symptom
+epilepsy,uncontrollable jerking movements.,has_symptom
+hemophilia,easy bruising,has_symptom
+hemophilia,excessive bleeding,has_symptom
+hemophilia,prolonged bleeding.,has_symptom
+hiv,swollen lymph nodes.,has_symptom
+rabies,confusion.,has_symptom
+rabies,excess salivation,has_symptom
+rabies,muscle spasms,has_symptom
+rabies,paralysis,has_symptom
+anthrax,cough.,has_symptom
+tetanus,jaw cramping,has_symptom
+tetanus,seizures.,has_symptom
+tetanus,trouble swallowing,has_symptom
+botulism,difficulty swallowing,has_symptom
+botulism,slurred speech.,has_symptom
+hantavirus,shortness of breath.,has_symptom
+west nile virus,body aches,has_symptom
+west nile virus,diarrhea.,has_symptom
+yellow fever,jaundice.,has_symptom
+syphilis,muscle aches.,has_symptom
+syphilis,painless sores,has_symptom
+syphilis,skin rashes,has_symptom
+syphilis,swollen lymph nodes,has_symptom
+gonorrhea,abnormal discharge,has_symptom
+gonorrhea,pain in testicles,has_symptom
+gonorrhea,painful urination,has_symptom
+gonorrhea,pelvic pain.,has_symptom
+chlamydia,bleeding between periods.,has_symptom
+chlamydia,discharge,has_symptom
+trichomoniasis,burning during urination,has_symptom
+trichomoniasis,discomfort.,has_symptom
+trichomoniasis,vaginal discharge,has_symptom
+toxoplasmosis,flu-like symptoms,has_symptom
+mumps,swollen salivary glands,has_symptom
+rubella (german measles),aching joints.,has_symptom
+whooping cough (pertussis),severe coughing fits,has_symptom
+whooping cough (pertussis),vomiting after coughing.,has_symptom
+scarlet fever,red lines,has_symptom
+scarlet fever,red rash,has_symptom
+scarlet fever,strawberry-like tongue.,has_symptom
+type 2 diabetes,increased thirst,has_symptom
+type 2 diabetes,slow-healing sores,has_symptom
+type 2 diabetes,unintended weight loss,has_symptom
+allergies,itchy and watery eyes,has_symptom
+allergies,itchy nose,has_symptom
+allergies,itchy roof of mouth or throat,has_symptom
+gastroesophageal reflux disease (gerd),regurgitation of food or sour liquid,has_symptom
+gastroesophageal reflux disease (gerd),sensation of a lump in the throat,has_symptom
+urinary tract infection (uti),burning sensation when urinating,has_symptom
+urinary tract infection (uti),cloudy urine,has_symptom
+urinary tract infection (uti),passing frequent,has_symptom
+urinary tract infection (uti),pelvic pain,has_symptom
+urinary tract infection (uti),persistent urge to urinate,has_symptom
+urinary tract infection (uti),red or bright pink urine,has_symptom
+urinary tract infection (uti),small amounts of urine,has_symptom
+urinary tract infection (uti),strong,has_symptom
+urinary tract infection (uti),strong-smelling urine,has_symptom
+sinusitis,cheeks,has_symptom
+sinusitis,drainage down the back of the throat,has_symptom
+sinusitis,nasal inflammation,has_symptom
+sinusitis,nasal obstruction or congestion,has_symptom
+sinusitis,nose or forehead,has_symptom
+sinusitis,pain or tenderness around eyes,has_symptom
+sinusitis,reduced sense of smell and taste,has_symptom
+sinusitis,thick nasal discharge,has_symptom
+otitis media (ear infection),diminished hearing,has_symptom
+otitis media (ear infection),drainage of fluid from the ear,has_symptom
+otitis media (ear infection),ear pain,has_symptom
+otitis media (ear infection),irritability in infants and young children,has_symptom
+conjunctivitis (pink eye),a discharge in one or both eyes that forms a crust during the night,has_symptom
+conjunctivitis (pink eye),a gritty feeling in one or both eyes,has_symptom
+conjunctivitis (pink eye),itchiness in one or both eyes,has_symptom
+conjunctivitis (pink eye),redness in one or both eyes,has_symptom
+conjunctivitis (pink eye),tearing,has_symptom
+dermatitis,burning or tenderness,has_symptom
+dermatitis,flaky skin,has_symptom
